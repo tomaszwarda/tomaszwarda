@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @tomaszwarda
-- 📫 wardatomaszjan@gmail.com
+Hi, I’m @tomaszwarda 👋\
+\
+📫 wardatomaszjan@gmail.com
